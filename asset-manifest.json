@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.9156ecde.js",
+    "main.js": "/portfolio/static/js/main.5a04268b.js",
     "static/media/charlotte.png": "/portfolio/static/media/charlotte.b09296f49c1f679310d2.png",
     "static/media/bluewall.jpg": "/portfolio/static/media/bluewall.5a7388d02d072f775a7c.jpg",
     "static/media/impact.png": "/portfolio/static/media/impact.433e98d215ff748dd67a.png",
     "static/media/default.png": "/portfolio/static/media/default.92d0c83b309c28ec00d5.png",
     "static/media/eventmaster.png": "/portfolio/static/media/eventmaster.35e6d813a0a3f426aa3a.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.0de4e1d00fb914928c9b.png",
     "static/media/bjj.jpg": "/portfolio/static/media/bjj.7108a37276c76669c1f9.jpg",
-    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.939b849b4a89edb42de8.jpg",
     "static/media/surf.jpg": "/portfolio/static/media/surf.b7fa83cec1f958522c06.jpg",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.16e370c3973ad4d4ec72.jpg",
     "static/media/bali.jpg": "/portfolio/static/media/bali.a81b17d6ba23ea7e98d0.jpg",
     "index.html": "/portfolio/index.html",
-    "main.9156ecde.js.map": "/portfolio/static/js/main.9156ecde.js.map"
+    "main.5a04268b.js.map": "/portfolio/static/js/main.5a04268b.js.map"
   },
   "entrypoints": [
-    "static/js/main.9156ecde.js"
+    "static/js/main.5a04268b.js"
   ]
 }
