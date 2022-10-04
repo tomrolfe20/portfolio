@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.c481a97a.js",
+    "main.js": "/static/js/main.a1da4d26.js",
     "static/media/surfingbackground.jpg": "/static/media/surfingbackground.f539391f0aca21e4f2b6.jpg",
     "static/media/charlotte.png": "/static/media/charlotte.b09296f49c1f679310d2.png",
+    "static/media/gym-website.png": "/static/media/gym-website.d7dbf3b183327cb9ad95.png",
     "static/media/bluewall.jpg": "/static/media/bluewall.5a7388d02d072f775a7c.jpg",
     "static/media/impact.png": "/static/media/impact.433e98d215ff748dd67a.png",
     "static/media/default.png": "/static/media/default.92d0c83b309c28ec00d5.png",
+    "static/media/clearhead.png": "/static/media/clearhead.dcf08f898a2140142711.png",
     "static/media/eventmaster.png": "/static/media/eventmaster.35e6d813a0a3f426aa3a.png",
     "static/media/linkedin.png": "/static/media/linkedin.0de4e1d00fb914928c9b.png",
     "static/media/bjj.jpg": "/static/media/bjj.7108a37276c76669c1f9.jpg",
@@ -13,9 +15,9 @@
     "static/media/portfolio.jpg": "/static/media/portfolio.16e370c3973ad4d4ec72.jpg",
     "static/media/bali.jpg": "/static/media/bali.a81b17d6ba23ea7e98d0.jpg",
     "index.html": "/index.html",
-    "main.c481a97a.js.map": "/static/js/main.c481a97a.js.map"
+    "main.a1da4d26.js.map": "/static/js/main.a1da4d26.js.map"
   },
   "entrypoints": [
-    "static/js/main.c481a97a.js"
+    "static/js/main.a1da4d26.js"
   ]
 }
